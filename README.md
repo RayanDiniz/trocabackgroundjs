@@ -1,0 +1,8 @@
+# Troca Background Color JS
+Esse projeto troca a cor de fundo da página HTML com JavaScript utilizando a biblioteca "Math".
+
+## Executar
+Para executar o projeto basta baixar e rodar o arquivo "index.html" no navegador.
+
+## Ajude-me
+Para me ajudar faça uma doação no link: https://livepix.gg/rayandiniz.
